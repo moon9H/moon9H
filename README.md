@@ -2,7 +2,7 @@
 I'm Moongyu, Welcome To My Page!
 
 - 🔭 I’m currently styding CS at KNU CSE
-- 🌱 I’m currently learning Mobility
+- 🌱 I’m currently learning Computer Vision
 - 📫 How to reach me: moongye2202@knu.ac.kr
 
 ### Things I Code with
