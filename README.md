@@ -1,5 +1,5 @@
 ## Hi there Nice To See You👋
-I'm Moongyu Hwang, Welcome To My Page!
+I'm Moongyu, Welcome To My Page!
 
 - 🔭 I’m currently styding CS at KNU CSE
 - 🌱 I’m currently learning Mobility
