@@ -8,5 +8,4 @@ I'm Moongyu, Welcome To My Page!
 ### Things I Code with
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 
